@@ -1,0 +1,8 @@
+build
+dist
+coverage
+
+*.yaml
+*.json
+*.config.ts
+*.config.js
